@@ -1,0 +1,25 @@
+{
+  "name": "medical-tracking-services",
+  "version": "1.0.0",
+  "description": "This is a medical Tracking App designed to streamline medication browsing and inventory management. \r The app allows users to search for medicines, view detailed information, and locate nearby pharmacies and add to cart what they want to buy. \r Moreove, Pharmacists can efficiently manage their inventory, update stock levels, and ensure availability as well as communicate with their clients.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UwayoOlga/Medical-Tracking-Services.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/UwayoOlga/Medical-Tracking-Services/issues"
+  },
+  "homepage": "https://github.com/UwayoOlga/Medical-Tracking-Services#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.15",
+    "tailwindcss": "^4.0.15"
+  }
+}
